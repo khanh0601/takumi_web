@@ -213,6 +213,8 @@
     color: #f3f3f3;
 }
 .home_experience_inner{
+    max-width: 149rem;
+    margin-inline: auto;
     display: flex;
     justify-content: space-between;
 }
